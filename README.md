@@ -1,7 +1,7 @@
 
 # 👨🏽‍💻🧑🏽‍🔬 Wilson Martins
 
-**`Desenvolvedor Fullstack | Entusiasta de Tecnologia`**
+**`Desenvolvedor de software | Entusiasta de Tecnologia`**
 
 Olá, sou Wilson Martins, bacharel em Ciências e Tecnologia pela Universidade Federal do Maranhão.  Atualmente dedicado aos estudos em desenvolvimento Fullstack, com foco em boas práticas, arquitetura e escalabilidade, estou em busca de oportunidade para aplicar e aprimorar minhas habilidades, contribuindo para soluções eficientes.
 
